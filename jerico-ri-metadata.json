@@ -1,0 +1,43 @@
+{
+    "_class": "Software",
+    "alias": "https://github.com/socib/water-mass-transport",
+    "abstract": "Calculate the transport of water masses from glider data.",
+    "author": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3410"
+    },
+    "created": "2021-02-21",
+    "contributor": [
+        {
+            "_class": "Person",
+            "name": "Mélanie Juza <mjuza@socib.es>"
+        }
+    ],
+    "description": "Calculate the transport of water masses from glider data.",
+    "distribution": {
+        "_class": "Distribution",
+        "accessURL": "https://github.com/socib/water-mass-transport"
+    },
+    "downloadURL": "https://github.com/socib/water-mass-transport/archive/refs/heads/master.zip",
+    "keywords": ["matlab","netcdf","octave","physical-oceanography","ocean-sciences","seaglider","data-preservation","glider-toolbox","slocum","seaexplorer","socib"],
+    "language": ["English"],
+    "license": "Copyright (C) 2013-2018 ICTS SOCIB - Servei d'observació i predicció costaner de les Illes Balears http://www.socib.es\n\nThis program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.\n\nThis program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.",
+    "modified": "2021-02-21",
+    "name": "SOCIB water mass transport toolbox",
+    "organization": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3410"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3410"
+    },
+    "publisher": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3410"
+    },
+    "published": "2014-08-07",
+    "programming_language": ["MATLAB", "M", "C", "Other"],
+    "url": "https://github.com/socib/water-mass-transport",
+    "version": "v0.0.1"
+}
