@@ -1,2 +1,2 @@
-# water-mass-transport
-Calculate the transport of water masses from glider data.
+# glider-transport-calculations-toolbox
+Calculate the geostrophic transport of water masses from glider data.
